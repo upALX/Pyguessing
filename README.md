@@ -2,7 +2,7 @@
 
 **Overview**
 
-This is a guessing game entirely created in pure python.
+This is a CLI guessing game entirely created in pure python.
 
 **:construction: This project is currently under development :construction:**
 

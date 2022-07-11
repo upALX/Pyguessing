@@ -27,5 +27,4 @@ git clone https://github.com/upALX/Pyguessing.git
 ### License :unlock:
 This project is under the [MIT license](https://github.com/upALX/Pyguessing/blob/main/LICENSE).
 
-
 *Developed with :purple_heart: by Alexandre*

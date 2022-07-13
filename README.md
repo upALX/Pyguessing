@@ -8,7 +8,6 @@ This is a CLI guessing game entirely created in pure python.
 
 ---
 
-
 ## Tech stack used
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
